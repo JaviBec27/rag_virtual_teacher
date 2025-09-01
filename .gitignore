@@ -5,6 +5,9 @@
 /Docs/
 !/Docs/
 
+/docs/
+!/docs/
+
 
 # Opcional: ignorar archivos temporales de Python y Anaconda
 __pycache__/
