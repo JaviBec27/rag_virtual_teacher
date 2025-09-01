@@ -3,9 +3,11 @@
 
 # Ignorar la carpeta Docs y su contenido
 /Docs/
+/Docs/**
 !/Docs/
 
 /docs/
+/docs/**
 !/docs/
 
 
