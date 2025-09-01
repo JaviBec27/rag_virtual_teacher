@@ -1,0 +1,17 @@
+# Ignorar todos los TXT en la raíz
+/*.txt
+
+# Ignorar la carpeta Docs y su contenido
+/Docs/
+!/Docs/
+
+
+# Opcional: ignorar archivos temporales de Python y Anaconda
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+.venv/
+.env/
+.conda/

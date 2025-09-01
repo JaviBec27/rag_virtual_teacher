@@ -1,0 +1,4 @@
+langchain
+chromadb
+faiss-cpu
+google-generativeai
