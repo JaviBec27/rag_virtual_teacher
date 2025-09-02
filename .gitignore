@@ -10,6 +10,10 @@
 /docs/**
 !/docs/
 
+# Ignorar la carpeta database y su contenido...
+#Se ignora porque allí están todos los documentos que se cargarían, la estructura la escribe el script que construye la base de datos
+/database/
+
 
 # Opcional: ignorar archivos temporales de Python y Anaconda
 __pycache__/
